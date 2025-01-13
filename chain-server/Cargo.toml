@@ -23,7 +23,7 @@ camino = { workspace = true}
 clap = { workspace = true}
 ff = { workspace = true }
 lurk = { path = "../" }
-halo2curves = { version = "0.6.0", features = ["bits", "derive_serde"] }
+halo2curves = { version = "0.8.0", features = ["bits", "derive_serde"] }
 nova = { workspace = true }
 once_cell = {workspace = true }
 prost = "0.13"
